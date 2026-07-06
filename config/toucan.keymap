@@ -66,28 +66,28 @@
         base {
             display-name = "BASE";
             bindings = <
-&kp TAB  &kp Q  &kp W  &kp E  &kp R  &kp T  &kp Y  &kp U  &kp I  &kp O  &kp P  &kp BSPC  &kp LCTRL  &hml LCTRL A  &hml LEFT_ALT S  &hml LEFT_GUI D  &hml LEFT_SHIFT F  &kp G  &kp H  &hmr RIGHT_SHIFT J  &hmr RIGHT_GUI K  &hmr RIGHT_ALT L  &hmr RCTRL SEMI  &kp SQT  &kp LSHFT  &kp Z  &kp X  &kp C  &kp V  &kp B  &kp N  &kp M  &kp COMMA  &kp DOT  &kp FSLH  &kp ESC  &kp LGUI  &thml 1 SPACE  &thmk TAB SPACE  &kp BSPC  &thml 2 RET  &kp ESC
+&none  &kp Q  &kp W  &kp E  &kp R  &kp T  &kp Y  &kp U  &kp I  &kp O  &kp P  &none  &none  &hml LCTRL A  &hml LEFT_ALT S  &hml LEFT_GUI D  &hml LEFT_SHIFT F  &kp G  &kp H  &hmr RIGHT_SHIFT J  &hmr RIGHT_GUI K  &hmr RIGHT_ALT L  &hmr RCTRL SEMI  &none  &none  &kp Z  &kp X  &kp C  &kp V  &kp B  &kp N  &kp M  &kp COMMA  &kp DOT  &kp FSLH  &none  &kp LGUI  &thml 1 SPACE  &thmk TAB SPACE  &kp BSPC  &thml 2 RET  &kp ESC
             >;
         };
 
         sym {
             display-name = "SYM";
             bindings = <
-&kp TAB  &kp EXCL  &kp AT  &kp HASH  &kp DLLR  &kp PRCNT  &kp CARET  &kp N7  &kp N8  &kp N9  &kp BSLH  &kp BSPC  &kp LCTRL  &trans  &trans  &trans  &kp EQUAL  &kp TILDE  &kp MINUS  &kp NUMBER_4  &kp N5  &kp NUMBER_6  &kp APOS  &kp GRAVE  &kp LSHFT  &trans  &trans  &trans  &kp PLUS  &kp MINUS  &kp UNDER  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp MINUS  &kp TILDE  &trans  &trans  &trans  &trans  &thml 3 N0  &trans
+&none  &kp EXCL  &kp AT  &kp HASH  &kp DLLR  &kp PRCNT  &kp CARET  &kp N7  &kp N8  &kp N9  &kp BSLH  &none  &none  &trans  &trans  &trans  &kp EQUAL  &kp TILDE  &kp MINUS  &kp NUMBER_4  &kp N5  &kp NUMBER_6  &kp APOS  &none  &none  &trans  &trans  &trans  &kp PLUS  &kp MINUS  &kp UNDER  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp MINUS  &none  &trans  &trans  &trans  &trans  &thml 3 N0  &trans
             >;
         };
 
         nav {
             display-name = "NAV";
             bindings = <
-&trans  &kp LBRC  &kp RBRC  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &trans  &kp LESS_THAN  &kp EQUAL  &kp GREATER_THAN  &kp MINUS  &kp PIPE  &trans  &trans  &trans  &kp LBKT  &kp RBKT  &kp UNDER  &trans  &kp LEFT  &kp DOWN  &kp UP  &kp RIGHT  &kp DQT  &trans  &kp LSHFT  &studio_unlock  &trans  &trans  &trans  &trans  &bt BT_SEL 0  &bt BT_SEL 1  &bt BT_SEL 2  &bt BT_CLR  &studio_unlock  &trans  &trans  &thml 3 SPACE  &trans  &trans  &trans  &trans
+&none  &kp LBRC  &kp RBRC  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &trans  &kp LESS_THAN  &kp EQUAL  &kp GREATER_THAN  &kp MINUS  &kp PIPE  &none  &none  &trans  &kp LBKT  &kp RBKT  &kp UNDER  &trans  &kp LEFT  &kp DOWN  &kp UP  &kp RIGHT  &kp DQT  &none  &none  &studio_unlock  &trans  &trans  &trans  &trans  &bt BT_SEL 0  &bt BT_SEL 1  &bt BT_SEL 2  &bt BT_CLR  &studio_unlock  &none  &trans  &thml 3 SPACE  &trans  &trans  &trans  &trans
             >;
         };
 
         adj {
             display-name = "ADJ";
             bindings = <
-&mo 0  &trans  &kp F7  &kp F8  &kp F9  &kp F12  &kp C_VOL_DN  &kp AMPS  &kp ASTERISK  &kp LEFT_PARENTHESIS  &trans  &kp BSPC  &kp LCTRL  &trans  &kp F4  &kp F5  &kp F6  &kp F11  &trans  &kp DOLLAR  &kp PERCENT  &kp CARET  &trans  &trans  &bt LSHFT  &trans  &kp F1  &kp F2  &kp F3  &kp F10  &trans  &kp EXCL  &kp AT_SIGN  &kp HASH  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+&none  &trans  &kp F7  &kp F8  &kp F9  &kp F12  &kp C_VOL_DN  &kp AMPS  &kp ASTERISK  &kp LEFT_PARENTHESIS  &trans  &none  &none  &trans  &kp F4  &kp F5  &kp F6  &kp F11  &trans  &kp DOLLAR  &kp PERCENT  &kp CARET  &trans  &none  &none  &trans  &kp F1  &kp F2  &kp F3  &kp F10  &trans  &kp EXCL  &kp AT_SIGN  &kp HASH  &trans  &none  &trans  &trans  &trans  &trans  &trans  &trans
             >;
         };
 
