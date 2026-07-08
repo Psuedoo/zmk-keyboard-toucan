@@ -80,7 +80,7 @@
         nav {
             display-name = "NAV";
             bindings = <
-&none  &kp LBRC  &kp RBRC  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &trans  &kp LESS_THAN  &kp EQUAL  &kp GREATER_THAN  &kp MINUS  &kp PIPE  &none  &none  &trans  &kp LBKT  &kp RBKT  &kp UNDER  &trans  &kp LEFT  &kp DOWN  &kp UP  &kp RIGHT  &kp DQT  &none  &none  &studio_unlock  &trans  &trans  &trans  &trans  &bt BT_SEL 0  &bt BT_SEL 1  &bt BT_SEL 2  &bt BT_CLR  &studio_unlock  &none  &trans  &thml 3 SPACE  &trans  &trans  &trans  &trans
+&none  &kp LBRC  &kp RBRC  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &bt BT_CLR  &kp LESS_THAN  &kp EQUAL  &kp GREATER_THAN  &kp MINUS  &kp PIPE  &none  &none  &trans  &kp LBKT  &kp RBKT  &kp UNDER  &trans  &kp LEFT  &kp DOWN  &kp UP  &kp RIGHT  &kp DQT  &none  &none  &studio_unlock  &trans  &trans  &trans  &trans  &bt BT_SEL 0  &bt BT_SEL 1  &bt BT_SEL 2  &bt BT_SEL 3  &bt BT_SEL 4  &none  &trans  &thml 3 SPACE  &trans  &trans  &trans  &trans
             >;
         };
 
